@@ -1,0 +1,34 @@
+ckan:
+  api_url: "https://www.donneesquebec.ca/recherche/api/3/action"
+  # La recherche évite de dépendre d'un identifiant CKAN susceptible de changer.
+  query: "SEAO"
+  resource_pattern: "hebdo_.*\\.json$"
+  timeout_seconds: 120
+
+storage:
+  raw_dir: "data/raw"
+  database: "data/seao.duckdb"
+  report: "data/reports/latest.md"
+
+filter:
+  minimum_score: 3
+  keywords:
+    forage: 5
+    "forage de puits": 7
+    "puits municipal": 7
+    "eau souterraine": 5
+    "essai de pompage": 6
+    "essais de pompage": 6
+    "captage d'eau": 4
+    "puits artésien": 5
+    hydrogéologie: 3
+  exclusions:
+    - "puits d'ascenseur"
+    - "puits de lumière"
+    - "gaine d'ascenseur"
+  unspsc:
+    # Services de forage et services liés à l'eau (préfixes acceptés).
+    "71120000": 5
+    "72152800": 5
+    "83101500": 3
+

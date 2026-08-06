@@ -1,0 +1,28 @@
+{
+  "uri": "https://example.test/hebdo_20260727_20260802.json",
+  "version": "1.1",
+  "publishedDate": "2026-08-03T12:00:00Z",
+  "releases": [
+    {
+      "ocid": "ocds-qc-001",
+      "id": "ocds-qc-001-2026-01",
+      "date": "2026-07-30T14:00:00Z",
+      "tag": ["tender"],
+      "buyer": {"name": "Municipalité de Lac-Test"},
+      "tender": {
+        "title": "Forage d'un puits municipal et essais de pompage",
+        "description": "Travaux de captage d'eau souterraine",
+        "status": "active",
+        "items": [{"description": "Forage", "classification": {"scheme": "UNSPSC", "id": "72152800"}}]
+      }
+    },
+    {
+      "ocid": "ocds-qc-002",
+      "id": "ocds-qc-002-2026-01",
+      "date": "2026-07-31T14:00:00Z",
+      "tag": ["tender"],
+      "tender": {"title": "Réfection d'un puits d'ascenseur", "status": "active"}
+    }
+  ]
+}
+
