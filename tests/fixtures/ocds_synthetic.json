@@ -1,0 +1,49 @@
+{
+  "uri": "https://example.test/ocds/releases.json",
+  "version": "1.1",
+  "publishedDate": "2026-08-02T23:59:59-04:00",
+  "publisher": {"name": "Synthetic test publisher"},
+  "releases": [
+    {
+      "ocid": "ocds-test-drilling",
+      "id": "release-1",
+      "date": "2026-07-27T09:00:00-04:00",
+      "tag": ["tender"],
+      "initiationType": "tender",
+      "language": "fr",
+      "parties": [{"id": "buyer-1", "name": "Ville Exemple", "roles": ["buyer"]}],
+      "buyer": {"id": "buyer-1", "name": "Ville Exemple"},
+      "tender": {
+        "id": "tender-1",
+        "title": "Travaux municipaux",
+        "status": "active",
+        "procuringEntity": {"id": "buyer-1", "name": "Ville Exemple"},
+        "items": [{
+          "id": "item-1",
+          "description": "Construction d'un puits municipal",
+          "classification": {"scheme": "UNSPSC", "id": "72152800", "description": "Services de forage"},
+          "additionalClassifications": [{"scheme": "UNSPSC", "id": "83101500", "description": "Services d'eau"}]
+        }],
+        "documents": []
+      }
+    },
+    {
+      "ocid": "ocds-test-lift",
+      "id": "release-2",
+      "date": "2026-07-28T10:00:00-04:00",
+      "tag": ["tender"],
+      "initiationType": "tender",
+      "language": "fr",
+      "parties": [{"id": "buyer-2", "name": "Hôpital Exemple", "roles": ["buyer"]}],
+      "buyer": {"id": "buyer-2", "name": "Hôpital Exemple"},
+      "tender": {
+        "id": "tender-2",
+        "title": "Réfection d'un puits d'ascenseur",
+        "status": "active",
+        "procuringEntity": {"id": "buyer-2", "name": "Hôpital Exemple"},
+        "items": [],
+        "documents": []
+      }
+    }
+  ]
+}
