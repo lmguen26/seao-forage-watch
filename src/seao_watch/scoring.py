@@ -13,8 +13,16 @@ def normalized(value: Any) -> str:
 def release_text(release: dict[str, Any]) -> str:
     tender = release.get("tender") or {}
     buyer = release.get("buyer") or {}
-    parts = [tender.get("title"), tender.get("description"), buyer.get("name")]
-    parts.extend(item.get("description") for item in tender.get("items", []) if isinstance(item, dict))
+    procuring_entity = tender.get("procuringEntity") or {}
+    parts = [tender.get("title"), tender.get("description"), buyer.get("name"), procuring_entity.get("name")]
+    for item in tender.get("items", []):
+        if not isinstance(item, dict):
+            continue
+        parts.extend([item.get("description"), (item.get("classification") or {}).get("description")])
+        parts.extend(c.get("description") for c in item.get("additionalClassifications", []) if isinstance(c, dict))
+    for document in tender.get("documents", []):
+        if isinstance(document, dict):
+            parts.extend([document.get("title"), document.get("description")])
     return normalized(" ".join(str(part or "") for part in parts))
 
 
@@ -32,9 +40,11 @@ def score_release(release: dict[str, Any], config: dict[str, Any]) -> tuple[int,
     tender = release.get("tender") or {}
     codes = []
     for item in tender.get("items", []):
+        if not isinstance(item, dict):
+            continue
         classification = item.get("classification") or {}
         codes.append(str(classification.get("id") or ""))
-        codes.extend(str(c.get("id") or "") for c in item.get("additionalClassifications", []))
+        codes.extend(str(c.get("id") or "") for c in item.get("additionalClassifications", []) if isinstance(c, dict))
     for prefix, weight in rules.get("unspsc", {}).items():
         if any(code.startswith(str(prefix)) for code in codes):
             score += int(weight)
