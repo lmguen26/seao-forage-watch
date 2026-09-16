@@ -29,14 +29,16 @@ def discover_resources(config: dict[str, Any], client: httpx.Client) -> list[dic
 
 
 def download_resources(config: dict[str, Any]) -> list[Path]:
-    """Télécharge sans écraser les instantanés bruts et inscrit un manifeste SHA-256."""
+    """Télécharge les deux semaines les plus récentes et inscrit un manifeste SHA-256."""
     raw_dir = Path(config["storage"]["raw_dir"])
     raw_dir.mkdir(parents=True, exist_ok=True)
     timeout = config["ckan"].get("timeout_seconds", 120)
     saved: list[Path] = []
     manifest_path = raw_dir / "manifest.jsonl"
     with httpx.Client(timeout=timeout, follow_redirects=True, headers={"User-Agent": "seao-forage-watch/0.1"}) as client:
-        for resource in discover_resources(config, client):
+        # La semaine précédente sert de référence; la plus récente est celle à analyser.
+        resources = discover_resources(config, client)[-2:]
+        for resource in resources:
             content = client.get(resource["url"]).raise_for_status().content
             digest = hashlib.sha256(content).hexdigest()
             # Le digest rend chaque version immuable même si CKAN réutilise un nom.
@@ -51,4 +53,3 @@ def download_resources(config: dict[str, Any]) -> list[Path]:
                     stream.write(json.dumps(record, ensure_ascii=False) + "\n")
             saved.append(target)
     return saved
-
