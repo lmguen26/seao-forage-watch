@@ -1,6 +1,11 @@
 name: Veille SEAO
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "data/**"
   schedule:
     - cron: "17 11 * * *"
   workflow_dispatch:
