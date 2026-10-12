@@ -30,6 +30,9 @@ def test_ingestion_is_idempotent_versions_and_report(tmp_path):
     assert first["releases"] == 2
     assert second["duplicates"] == 2
 
+    active_report = generate_report(database, tmp_path / "active-report.md")
+    assert "Travaux municipaux" in active_report.read_text(encoding="utf-8")
+
     updated = json.loads(UNIT_FIXTURE.read_text(encoding="utf-8"))
     updated["releases"] = [updated["releases"][0]]
     updated["releases"][0]["id"] = "release-1-update"
@@ -51,8 +54,11 @@ def test_ingestion_is_idempotent_versions_and_report(tmp_path):
         }
     assert versions == [(1,), (2,)]
     assert {"nouvel_avis", "mise_a_jour", "annulation"} <= events
+
     report = generate_report(database, tmp_path / "report.md")
-    assert "Travaux municipaux" in report.read_text(encoding="utf-8")
+    report_text = report.read_text(encoding="utf-8")
+    assert "Travaux municipaux" not in report_text
+    assert "Aucune demande active" in report_text
 
 
 def test_contract_detection():
