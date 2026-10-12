@@ -1,8 +1,304 @@
 # Veille SEAO — forage et eaux souterraines
 
-Généré le 2026-09-27 15:38 UTC
+Généré le 2026-10-12 11:54 UTC
 
-**69 événement(s) pertinent(s)**
+**106 événement(s) pertinent(s)**
+
+## Achat d'une foreuse hydraulique de surface, usagée
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20171844` / `20261007122256`
+- **Organisme :** Centre de services scolaire de la région de Sherbrooke.
+- **Statut / date :** active / 2026-09-18 11:51:50
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Service de nettoyage et d'inspection télévisée des conduites d'égouts incluant le transport et la disposition des résidus - Multi arrondissements
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20169610` / `20261008173709`
+- **Organisme :** Ville de Montréal - Service de l'approvisionnement
+- **Statut / date :** active / 2026-09-09 10:52:04
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## NETTOYAGE DES STATIONS DE POMPAGE ET TRAVAUX SUR DEMANDE
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20164673` / `20261009153541`
+- **Organisme :** Ville de Kirkland
+- **Statut / date :** active / 2026-09-28 13:06:11
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Parc national du Mont-Tremblant/ Installation puits d'observation
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20148664` / `20261008154059`
+- **Organisme :** Société des établissements de plein air du Québec (Sépaq).
+- **Statut / date :** complete / 2026-05-27 09:26:29
+- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
+
+## Parc national du Mont-Tremblant/ Installation puits d'observation
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20148664` / `20261008154059`
+- **Organisme :** Société des établissements de plein air du Québec (Sépaq).
+- **Statut / date :** complete / 2026-05-27 09:26:29
+- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
+
+## Services professionnels en hydrogéologie dans le cadre de la construction d’un nouveau centre d’empotage
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20055542` / `20261007191955`
+- **Organisme :** Ministère des Ressources naturelles et des Forêts
+- **Statut / date :** complete / 2025-03-12 09:14:38
+- **Score :** 3 — mot-clé:hydrogéologie (+3)
+
+## Services professionnels en hydrogéologie dans le cadre de la construction d’un nouveau centre d’empotage
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20055542` / `20261007191955`
+- **Organisme :** Ministère des Ressources naturelles et des Forêts
+- **Statut / date :** complete / 2025-03-12 09:14:38
+- **Score :** 3 — mot-clé:hydrogéologie (+3)
+
+## Nettoyage et inspection télévisée des réseaux d'égout et des regards par caméra conventionnelle et à téléobjectif
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20054326` / `20261005141853`
+- **Organisme :** Ville de Drummondville.
+- **Statut / date :** complete / 2025-03-06 13:38:03
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Nettoyage et inspection télévisée des réseaux d'égout et des regards par caméra conventionnelle et à téléobjectif
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20054326` / `20261005141853`
+- **Organisme :** Ville de Drummondville.
+- **Statut / date :** complete / 2025-03-06 13:38:03
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Pour le nettoyage des puisards de rues, de cours d'écoles, de parcs et de stationnements municipaux
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-1693137` / `20261009202049`
+- **Organisme :** Ville de Blainville
+- **Statut / date :** complete / 2023-02-21 16:26:33
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Pour le nettoyage des puisards de rues, de cours d'écoles, de parcs et de stationnements municipaux
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-1693137` / `20261009202049`
+- **Organisme :** Ville de Blainville
+- **Statut / date :** complete / 2023-02-21 16:26:33
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Ausculter l'aqueduc sur plusieurs rues par la technique ePulse (projet pilote) - Division Planification des investissements -DRE
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-1680458` / `20261007172815`
+- **Organisme :** Ville de Montréal
+- **Statut / date :** complete / 2023-02-10 13:06:13
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Ausculter l'aqueduc sur plusieurs rues par la technique ePulse (projet pilote) - Division Planification des investissements -DRE
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-1680458` / `20261007172815`
+- **Organisme :** Ville de Montréal
+- **Statut / date :** complete / 2023-02-10 13:06:13
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## RECHERCHE DE FUITES D’EAU SUR LE TERRITOIRE DE POINTE-CLAIRE (2022-2024  FERMES ET 2025 EN OPTION)
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-1540874` / `20261008143156`
+- **Organisme :** Ville de Pointe-Claire.
+- **Statut / date :** complete / 2021-11-04 16:20:28
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## RECHERCHE DE FUITES D’EAU SUR LE TERRITOIRE DE POINTE-CLAIRE (2022-2024  FERMES ET 2025 EN OPTION)
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-1540874` / `20261008143156`
+- **Organisme :** Ville de Pointe-Claire.
+- **Statut / date :** complete / 2021-11-04 16:20:28
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Acoustique et insonorisation
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-1458590` / `20261005191608`
+- **Organisme :** Société québécoise des infrastructures
+- **Statut / date :** complete / 2021-02-26 14:02:44
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Acoustique et insonorisation
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-1458590` / `20261005191608`
+- **Organisme :** Société québécoise des infrastructures
+- **Statut / date :** complete / 2021-02-26 14:02:44
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Bris d'aqueduc sur avenue Marien (urgence)
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20174897` / `20261006125652`
+- **Organisme :** Ville de Montréal-Est
+- **Statut / date :** complete / 2026-10-06 08:39:20
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Forage de deux puits d'eau potable
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20174629` / `20261005124021`
+- **Organisme :** Municipalité de Saint-Guillaume
+- **Statut / date :** active / 2026-10-05 08:40:21
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Nettoyage des conduites sanitaires et inspection télévisée
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20170633` / `20261007185229`
+- **Organisme :** Ville de Sutton .
+- **Statut / date :** complete / 2026-10-07 14:52:29
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Réparation dun bris daqueduc Agglo sur la conduite de 12 pouces près de 80 rue Brookside_Beaconsfield_JFD
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20168112` / `20261008122607`
+- **Organisme :** Ville de Montréal - Service de l'Eau
+- **Statut / date :** complete / 2026-10-08 08:25:12
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Dépannage des sites de régulation et de mesure sur le réseau d'eau potable
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20172263` / `20261002142015`
+- **Organisme :** Ville de Montréal - Service de l'approvisionnement
+- **Statut / date :** active / 2026-09-23 10:16:39
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Services professionnels pour la réalisation d’une étude géotechnique en prévision de travaux municipaux
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20169976` / `20260929140021`
+- **Organisme :** Ville de Sept-Îles
+- **Statut / date :** active / 2026-09-09 16:47:01
+- **Score :** 12 — mot-clé:forage (+5), mot-clé:forage de puits (+7)
+
+## Service de nettoyage et d'inspection télévisée des conduites d'égouts incluant le transport et la disposition des résidus - Multi arrondissements
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20169610` / `20261001123403`
+- **Organisme :** Ville de Montréal - Service de l'approvisionnement
+- **Statut / date :** active / 2026-09-09 10:52:04
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Forage et construction des puits de captage P-2B et P-3 - Services d'un puisatier spécialisé
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20168410` / `20261002180117`
+- **Organisme :** Ville de Desbiens.
+- **Statut / date :** active / 2026-09-02 15:24:56
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Services techniques en forage
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20168082` / `20261002151414`
+- **Organisme :** Ville de Macamic.
+- **Statut / date :** active / 2026-09-02 11:37:52
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Forage d'un puits (construction du garage municipal de la Ville de Saint-Colomban)
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20097122` / `20260930053028`
+- **Organisme :** Ville de Saint-Colomban.
+- **Statut / date :** complete / 2025-09-29 15:02:03
+- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
+
+## Forage d'un puits (construction du garage municipal de la Ville de Saint-Colomban)
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20097122` / `20260930053028`
+- **Organisme :** Ville de Saint-Colomban.
+- **Statut / date :** complete / 2025-09-29 15:02:03
+- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
+
+## Forages exploratoires pour recherche en eau
+
+- **Événement :** annulation
+- **OCID / release :** `ocds-ec9k95-20094801` / `20261002053037`
+- **Organisme :** Municipalité d'Ormstown.
+- **Statut / date :** cancelled / 2025-09-16 13:12:32
+- **Score :** 5 — mot-clé:forage (+5)
+
+## 8105-22-QH03 - Caractérisation environnementale phase II complémentaire et campagnes de suivi de la qualité de l'eau souterraine sur quatre aéroports (DGPEA)
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-1650141` / `20261002155110`
+- **Organisme :** Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)
+- **Statut / date :** complete / 2022-10-07 13:14:19
+- **Score :** 5 — mot-clé:eau souterraine (+5)
+
+## 8105-22-QH03 - Caractérisation environnementale phase II complémentaire et campagnes de suivi de la qualité de l'eau souterraine sur quatre aéroports (DGPEA)
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-1650141` / `20261002155110`
+- **Organisme :** Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)
+- **Statut / date :** complete / 2022-10-07 13:14:19
+- **Score :** 5 — mot-clé:eau souterraine (+5)
+
+## FORAGES - Travaux correcteurs AAM, St-Gérard 
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20174435` / `20261002145823`
+- **Organisme :** Ville de Shawinigan
+- **Statut / date :** complete / 2026-10-02 10:58:23
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Programme de suivi annuel – Suivi des puits d’exploitation 
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20173996` / `20260930183746`
+- **Organisme :** Ville de Lac-Mégantic.
+- **Statut / date :** complete / 2026-09-30 14:37:46
+- **Score :** 5 — mot-clé:puits artésien (+5)
+
+## Pour des travaux de rinçage unidirectionnel
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20173617` / `20260930121950`
+- **Organisme :** Ville de Blainville
+- **Statut / date :** active / 2026-09-30 08:19:50
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Nettoyage des égouts
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20173555` / `20260930124803`
+- **Organisme :** Ville de Prévost.
+- **Statut / date :** active / 2026-09-30 08:48:03
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## Gré à gré - 4 soumissionnaires - 2 soumissions reçu et 2 désistements.Remplacement des services dégout et aqueduc au 5076 rue Perron.
+
+- **Événement :** contrat
+- **OCID / release :** `ocds-ec9k95-20168069` / `20261001122711`
+- **Organisme :** Ville de Montréal - Service de l'Eau
+- **Statut / date :** complete / 2026-10-01 08:23:02
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
+## NETTOYAGE DES STATIONS DE POMPAGE ET TRAVAUX SUR DEMANDE
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20164673` / `20260928170611`
+- **Organisme :** Ville de Kirkland
+- **Statut / date :** active / 2026-09-28 13:06:11
+- **Score :** 3 — UNSPSC:83101500 (+3)
 
 ## Services professionnels pour la réalisation d’une étude géotechnique en prévision de travaux municipaux
 
@@ -382,7 +678,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Forage et aménagement d'un puits d'eau potable
 
-- **Événement :** mise a jour
+- **Événement :** contrat
 - **OCID / release :** `ocds-ec9k95-20142253` / `20260902141428`
 - **Organisme :** Municipalité de Grande-Vallée
 - **Statut / date :** complete / 2026-04-29 13:31:35
@@ -390,7 +686,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Forage et aménagement d'un puits d'eau potable
 
-- **Événement :** contrat
+- **Événement :** mise a jour
 - **OCID / release :** `ocds-ec9k95-20142253` / `20260902141428`
 - **Organisme :** Municipalité de Grande-Vallée
 - **Statut / date :** complete / 2026-04-29 13:31:35
@@ -462,7 +758,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Réparation de la pompe no 5.
 
-- **Événement :** mise a jour
+- **Événement :** contrat
 - **OCID / release :** `ocds-ec9k95-20092525` / `20260904053053`
 - **Organisme :** Ville de Mirabel
 - **Statut / date :** complete / 2025-09-03 12:10:58
@@ -470,7 +766,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Réparation de la pompe no 5.
 
-- **Événement :** contrat
+- **Événement :** mise a jour
 - **OCID / release :** `ocds-ec9k95-20092525` / `20260904053053`
 - **Organisme :** Ville de Mirabel
 - **Statut / date :** complete / 2025-09-03 12:10:58
@@ -510,7 +806,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Surveillance - bouclage d'aqueduc pour la rue Bourg Joli
 
-- **Événement :** mise a jour
+- **Événement :** contrat
 - **OCID / release :** `ocds-ec9k95-20020353` / `20260903175736`
 - **Organisme :** Ville de Sainte-Adèle.
 - **Statut / date :** complete / 2024-09-23 10:59:35
@@ -518,7 +814,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Surveillance - bouclage d'aqueduc pour la rue Bourg Joli
 
-- **Événement :** contrat
+- **Événement :** mise a jour
 - **OCID / release :** `ocds-ec9k95-20020353` / `20260903175736`
 - **Organisme :** Ville de Sainte-Adèle.
 - **Statut / date :** complete / 2024-09-23 10:59:35
@@ -526,7 +822,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Inspection par caméra des réseaux d'égout
 
-- **Événement :** mise a jour
+- **Événement :** contrat
 - **OCID / release :** `ocds-ec9k95-1695198` / `20260902150624`
 - **Organisme :** Ville de Lévis.
 - **Statut / date :** complete / 2023-02-23 12:28:12
@@ -534,7 +830,7 @@ Généré le 2026-09-27 15:38 UTC
 
 ## Inspection par caméra des réseaux d'égout
 
-- **Événement :** contrat
+- **Événement :** mise a jour
 - **OCID / release :** `ocds-ec9k95-1695198` / `20260902150624`
 - **Organisme :** Ville de Lévis.
 - **Statut / date :** complete / 2023-02-23 12:28:12
