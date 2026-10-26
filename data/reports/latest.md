@@ -1,6 +1,6 @@
 # Veille SEAO — demandes actives en forage et eaux souterraines
 
-Généré le 2026-10-25 14:58 UTC
+Généré le 2026-10-26 17:21 UTC
 
 **13 demande(s) active(s) pertinente(s)**
 
@@ -11,14 +11,6 @@ Généré le 2026-10-25 14:58 UTC
 - **Organisme :** Ville de Sutton .
 - **Statut / date :** active / 2026-08-07 09:29:36
 - **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:72152800 (+5)
-
-## Services professionnels pour la réalisation d’une étude géotechnique en prévision de travaux municipaux
-
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20169976` / `20260917151002`
-- **Organisme :** Ville de Sept-Îles
-- **Statut / date :** active / 2026-09-09 16:47:01
-- **Score :** 12 — mot-clé:forage (+5), mot-clé:forage de puits (+7)
 
 ## Travaux de forage de puits d'eau potable
 
@@ -38,8 +30,8 @@ Généré le 2026-10-25 14:58 UTC
 
 ## Forage de deux puits d'eau potable
 
-- **Événement :** nouvel avis
-- **OCID / release :** `ocds-ec9k95-20174629` / `20261005124021`
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20174629` / `20261022124052`
 - **Organisme :** Municipalité de Saint-Guillaume
 - **Statut / date :** active / 2026-10-05 08:40:21
 - **Score :** 5 — mot-clé:forage (+5)
@@ -68,10 +60,18 @@ Généré le 2026-10-25 14:58 UTC
 - **Statut / date :** active / 2026-09-02 11:37:52
 - **Score :** 5 — mot-clé:forage (+5)
 
-## Travaux de nettoyage des conduites d'égout au mètre linéaire
+## Services professionnels - Mise à niveau des installations de captage d'eau brute à des Îlets
 
 - **Événement :** nouvel avis
-- **OCID / release :** `ocds-ec9k95-20176616` / `20261014212747`
+- **OCID / release :** `ocds-ec9k95-20177224` / `20261022132340`
+- **Organisme :** Ville de Québec
+- **Statut / date :** active / 2026-10-22 09:23:40
+- **Score :** 4 — mot-clé:captage d'eau (+4)
+
+## Travaux de nettoyage des conduites d'égout au mètre linéaire
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20176616` / `20261019150249`
 - **Organisme :** Ville de Shawinigan
 - **Statut / date :** active / 2026-10-14 17:27:47
 - **Score :** 3 — UNSPSC:83101500 (+3)
@@ -79,7 +79,7 @@ Généré le 2026-10-25 14:58 UTC
 ## NETTOYAGE DES STATIONS DE POMPAGE ET TRAVAUX SUR DEMANDE
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20164673` / `20261009153541`
+- **OCID / release :** `ocds-ec9k95-20164673` / `20261023173402`
 - **Organisme :** Ville de Kirkland
 - **Statut / date :** active / 2026-09-28 13:06:11
 - **Score :** 3 — UNSPSC:83101500 (+3)
@@ -87,7 +87,7 @@ Généré le 2026-10-25 14:58 UTC
 ## Service de nettoyage et d'inspection télévisée des conduites d'égouts incluant le transport et la disposition des résidus - Multi arrondissements
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20169610` / `20261008173709`
+- **OCID / release :** `ocds-ec9k95-20169610` / `20261021163159`
 - **Organisme :** Ville de Montréal - Service de l'approvisionnement
 - **Statut / date :** active / 2026-09-09 10:52:04
 - **Score :** 3 — UNSPSC:83101500 (+3)
