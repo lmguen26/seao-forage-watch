@@ -1,16 +1,24 @@
 # Veille SEAO — demandes actives en forage et eaux souterraines
 
-Généré le 2026-11-01 17:07 UTC
+Généré le 2026-11-02 20:45 UTC
 
-**13 demande(s) active(s) pertinente(s)**
+**19 demande(s) active(s) pertinente(s)**
 
-## Appel d’offres en services de forage de puits
+## Forage de puits et essais de pompage - Mise en oeuvre d'un troisième puits au site Doncaster
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20163565` / `20261013150114`
-- **Organisme :** Ville de Sutton .
-- **Statut / date :** active / 2026-08-07 09:29:36
-- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:72152800 (+5)
+- **OCID / release :** `ocds-ec9k95-20166254` / `20260915150128`
+- **Organisme :** Municipalité du Village de Val-David
+- **Statut / date :** active / 2026-08-26 08:00:15
+- **Score :** 18 — mot-clé:forage (+5), mot-clé:forage de puits (+7), mot-clé:essais de pompage (+6)
+
+## Travaux de forages pour l’installation de puits d'observation
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20165561` / `20260908154436`
+- **Organisme :** Université du Québec à Montréal
+- **Statut / date :** active / 2026-08-19 16:26:50
+- **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
 
 ## Travaux de forage de puits d'eau potable
 
@@ -20,28 +28,28 @@ Généré le 2026-11-01 17:07 UTC
 - **Statut / date :** active / 2026-08-18 10:43:39
 - **Score :** 12 — mot-clé:forage (+5), mot-clé:forage de puits (+7)
 
-## Plot-Scale Research Combine and Plot-Scale Research Seeder for Forage and Small-Seed Crops
+## Études, conception et surveillance de chantier - Réfection de l'installation septique et aménagement d'un puits de captage d’eau souterraine destiné à l’alimentation en eau potable du bâtiment  Centre culturel Saint-Dunstan
 
 - **Événement :** nouvel avis
-- **OCID / release :** `ocds-ec9k95-20177136` / `20261016193508`
-- **Organisme :** Université McGill
-- **Statut / date :** active / 2026-10-16 15:35:07
-- **Score :** 5 — mot-clé:forage (+5)
+- **OCID / release :** `ocds-ec9k95-20179517` / `20261028122415`
+- **Organisme :** Municipalité de Lac-Beauport.
+- **Statut / date :** active / 2026-10-28 08:24:15
+- **Score :** 5 — mot-clé:eau souterraine (+5)
 
 ## Forage de deux puits d'eau potable
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20174629` / `20261022124052`
+- **OCID / release :** `ocds-ec9k95-20174629` / `20261027160111`
 - **Organisme :** Municipalité de Saint-Guillaume
 - **Statut / date :** active / 2026-10-05 08:40:21
 - **Score :** 5 — mot-clé:forage (+5)
 
-## 4174-25-PK01 Fournir les services d'une foreuse et son équipe en vue d'exécuter des forages et des sondages sur l'ensemble du territoire de la province de Québec (Direction générale du laboratoire des chaussées).
+## Achat d'une foreuse hydraulique de surface, usagée
 
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20170053` / `20261013184509`
-- **Organisme :** Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)
-- **Statut / date :** active / 2026-09-10 09:59:11
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20171844` / `20260918155150`
+- **Organisme :** Centre de services scolaire de la région de Sherbrooke.
+- **Statut / date :** active / 2026-09-18 11:51:50
 - **Score :** 5 — mot-clé:forage (+5)
 
 ## Forage et construction des puits de captage P-2B et P-3 - Services d'un puisatier spécialisé
@@ -60,10 +68,26 @@ Généré le 2026-11-01 17:07 UTC
 - **Statut / date :** active / 2026-09-02 11:37:52
 - **Score :** 5 — mot-clé:forage (+5)
 
+## Service d'un entrepreneur en forage et dynamitage - Saisons 2026-2027 et 2027-2028
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20163548` / `20260901182626`
+- **Organisme :** Ville de Sherbrooke
+- **Statut / date :** active / 2026-08-14 12:06:33
+- **Score :** 5 — mot-clé:forage (+5)
+
+## Services techniques pour forage géotechnique et de caractérisation environnementale - Centre d'exploitation de Saint-Hubert
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20156757` / `20260911145558`
+- **Organisme :** Réseau de transport de Longueuil
+- **Statut / date :** active / 2026-07-10 14:37:09
+- **Score :** 5 — mot-clé:forage (+5)
+
 ## Services professionnels - Mise à niveau des installations de captage d'eau brute à des Îlets
 
-- **Événement :** nouvel avis
-- **OCID / release :** `ocds-ec9k95-20177224` / `20261022132340`
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20177224` / `20261028162840`
 - **Organisme :** Ville de Québec
 - **Statut / date :** active / 2026-10-22 09:23:40
 - **Score :** 4 — mot-clé:captage d'eau (+4)
@@ -76,6 +100,14 @@ Généré le 2026-11-01 17:07 UTC
 - **Statut / date :** active / 2026-10-14 17:27:47
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
+## Nettoyage des égouts
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20173555` / `20261027183720`
+- **Organisme :** Ville de Prévost.
+- **Statut / date :** active / 2026-09-30 08:48:03
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
 ## NETTOYAGE DES STATIONS DE POMPAGE ET TRAVAUX SUR DEMANDE
 
 - **Événement :** mise a jour
@@ -84,10 +116,18 @@ Généré le 2026-11-01 17:07 UTC
 - **Statut / date :** active / 2026-09-28 13:06:11
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
+## Dépannage des sites de régulation et de mesure sur le réseau d'eau potable
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20172263` / `20261027173019`
+- **Organisme :** Ville de Montréal - Service de l'approvisionnement
+- **Statut / date :** active / 2026-09-23 10:16:39
+- **Score :** 3 — UNSPSC:83101500 (+3)
+
 ## Service de nettoyage et d'inspection télévisée des conduites d'égouts incluant le transport et la disposition des résidus - Multi arrondissements
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20169610` / `20261021163159`
+- **OCID / release :** `ocds-ec9k95-20169610` / `20261029145135`
 - **Organisme :** Ville de Montréal - Service de l'approvisionnement
 - **Statut / date :** active / 2026-09-09 10:52:04
 - **Score :** 3 — UNSPSC:83101500 (+3)
@@ -99,6 +139,14 @@ Généré le 2026-11-01 17:07 UTC
 - **Organisme :** Municipalité  de Val-des-Monts
 - **Statut / date :** active / 2026-08-14 16:18:20
 - **Score :** 3 — mot-clé:hydrogéologie (+3)
+
+## Nettoyage de conduites d’égout sanitaire
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20162117` / `20260914190245`
+- **Organisme :** Ville de Dollard-des-Ormeaux
+- **Statut / date :** active / 2026-08-13 07:30:10
+- **Score :** 3 — UNSPSC:83101500 (+3)
 
 ## Service de nettoyage et vidange de puisards et de chambres de vanne incluant le transport et la disposition des résidus pour divers arrondissements
 
