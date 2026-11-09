@@ -1,6 +1,6 @@
 # Veille SEAO — demandes actives en forage et eaux souterraines
 
-Généré le 2026-11-08 17:01 UTC
+Généré le 2026-11-09 21:26 UTC
 
 **19 demande(s) active(s) pertinente(s)**
 
@@ -20,6 +20,14 @@ Généré le 2026-11-08 17:01 UTC
 - **Statut / date :** active / 2026-08-19 16:26:50
 - **Score :** 17 — mot-clé:forage (+5), mot-clé:forage de puits (+7), UNSPSC:71120000 (+5)
 
+## Services professionnels pour la réalisation d’une étude géotechnique en prévision de travaux municipaux
+
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20169976` / `20260917151002`
+- **Organisme :** Ville de Sept-Îles
+- **Statut / date :** active / 2026-09-09 16:47:01
+- **Score :** 12 — mot-clé:forage (+5), mot-clé:forage de puits (+7)
+
 ## Travaux de forage de puits d'eau potable
 
 - **Événement :** mise a jour
@@ -28,13 +36,13 @@ Généré le 2026-11-08 17:01 UTC
 - **Statut / date :** active / 2026-08-18 10:43:39
 - **Score :** 12 — mot-clé:forage (+5), mot-clé:forage de puits (+7)
 
-## Études, conception et surveillance de chantier - Réfection de l'installation septique et aménagement d'un puits de captage d’eau souterraine destiné à l’alimentation en eau potable du bâtiment  Centre culturel Saint-Dunstan
+## Plot-Scale Research Combine and Plot-Scale Research Seeder for Forage and Small-Seed Crops
 
-- **Événement :** nouvel avis
-- **OCID / release :** `ocds-ec9k95-20179517` / `20261028122415`
-- **Organisme :** Municipalité de Lac-Beauport.
-- **Statut / date :** active / 2026-10-28 08:24:15
-- **Score :** 5 — mot-clé:eau souterraine (+5)
+- **Événement :** mise a jour
+- **OCID / release :** `ocds-ec9k95-20177136` / `20261106171428`
+- **Organisme :** Université McGill
+- **Statut / date :** active / 2026-10-16 15:35:07
+- **Score :** 5 — mot-clé:forage (+5)
 
 ## Forage de deux puits d'eau potable
 
@@ -87,7 +95,7 @@ Généré le 2026-11-08 17:01 UTC
 ## Services professionnels - Mise à niveau des installations de captage d'eau brute à des Îlets
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20177224` / `20261028162840`
+- **OCID / release :** `ocds-ec9k95-20177224` / `20261104192705`
 - **Organisme :** Ville de Québec
 - **Statut / date :** active / 2026-10-22 09:23:40
 - **Score :** 4 — mot-clé:captage d'eau (+4)
@@ -95,7 +103,7 @@ Généré le 2026-11-08 17:01 UTC
 ## Travaux de nettoyage des conduites d'égout au mètre linéaire
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20176616` / `20261019150249`
+- **OCID / release :** `ocds-ec9k95-20176616` / `20261106142041`
 - **Organisme :** Ville de Shawinigan
 - **Statut / date :** active / 2026-10-14 17:27:47
 - **Score :** 3 — UNSPSC:83101500 (+3)
@@ -108,12 +116,12 @@ Généré le 2026-11-08 17:01 UTC
 - **Statut / date :** active / 2026-09-30 08:48:03
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
-## NETTOYAGE DES STATIONS DE POMPAGE ET TRAVAUX SUR DEMANDE
+## Pour des travaux de rinçage unidirectionnel
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20164673` / `20261023173402`
-- **Organisme :** Ville de Kirkland
-- **Statut / date :** active / 2026-09-28 13:06:11
+- **OCID / release :** `ocds-ec9k95-20173617` / `20261103140806`
+- **Organisme :** Ville de Blainville
+- **Statut / date :** active / 2026-09-30 08:19:50
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
 ## Dépannage des sites de régulation et de mesure sur le réseau d'eau potable
@@ -146,13 +154,5 @@ Généré le 2026-11-08 17:01 UTC
 - **OCID / release :** `ocds-ec9k95-20162117` / `20260914190245`
 - **Organisme :** Ville de Dollard-des-Ormeaux
 - **Statut / date :** active / 2026-08-13 07:30:10
-- **Score :** 3 — UNSPSC:83101500 (+3)
-
-## Service de nettoyage et vidange de puisards et de chambres de vanne incluant le transport et la disposition des résidus pour divers arrondissements
-
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20163704` / `20260918185915`
-- **Organisme :** Ville de Montréal - Service de l'approvisionnement
-- **Statut / date :** active / 2026-08-12 09:53:06
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
