@@ -1,6 +1,6 @@
 # Veille SEAO — demandes actives en forage et eaux souterraines
 
-Généré le 2026-11-15 17:42 UTC
+Généré le 2026-11-16 21:00 UTC
 
 **19 demande(s) active(s) pertinente(s)**
 
@@ -39,17 +39,9 @@ Généré le 2026-11-15 17:42 UTC
 ## Plot-Scale Research Combine and Plot-Scale Research Seeder for Forage and Small-Seed Crops
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20177136` / `20261106171428`
+- **OCID / release :** `ocds-ec9k95-20177136` / `20261111195608`
 - **Organisme :** Université McGill
 - **Statut / date :** active / 2026-10-16 15:35:07
-- **Score :** 5 — mot-clé:forage (+5)
-
-## Forage de deux puits d'eau potable
-
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20174629` / `20261027160111`
-- **Organisme :** Municipalité de Saint-Guillaume
-- **Statut / date :** active / 2026-10-05 08:40:21
 - **Score :** 5 — mot-clé:forage (+5)
 
 ## Achat d'une foreuse hydraulique de surface, usagée
@@ -58,6 +50,14 @@ Généré le 2026-11-15 17:42 UTC
 - **OCID / release :** `ocds-ec9k95-20171844` / `20260918155150`
 - **Organisme :** Centre de services scolaire de la région de Sherbrooke.
 - **Statut / date :** active / 2026-09-18 11:51:50
+- **Score :** 5 — mot-clé:forage (+5)
+
+## 4174-25-PK01 Fournir les services d'une foreuse et son équipe en vue d'exécuter des forages et des sondages sur l'ensemble du territoire de la province de Québec (Direction générale du laboratoire des chaussées).
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20170053` / `20260910135911`
+- **Organisme :** Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)
+- **Statut / date :** active / 2026-09-10 09:59:11
 - **Score :** 5 — mot-clé:forage (+5)
 
 ## Forage et construction des puits de captage P-2B et P-3 - Services d'un puisatier spécialisé
@@ -92,13 +92,29 @@ Généré le 2026-11-15 17:42 UTC
 - **Statut / date :** active / 2026-07-10 14:37:09
 - **Score :** 5 — mot-clé:forage (+5)
 
+## Services professionnels en architecture - Mise à niveau des installations de captage d'eau brute à des îlets (PSP185198)
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20182563` / `20261112151454`
+- **Organisme :** Ville de Québec
+- **Statut / date :** active / 2026-11-12 10:14:54
+- **Score :** 4 — mot-clé:captage d'eau (+4)
+
 ## Services professionnels - Mise à niveau des installations de captage d'eau brute à des Îlets
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20177224` / `20261104192705`
+- **OCID / release :** `ocds-ec9k95-20177224` / `20261110182732`
 - **Organisme :** Ville de Québec
 - **Statut / date :** active / 2026-10-22 09:23:40
 - **Score :** 4 — mot-clé:captage d'eau (+4)
+
+## Nettoyage de puisards 2027-2030
+
+- **Événement :** nouvel avis
+- **OCID / release :** `ocds-ec9k95-20183166` / `20261112194713`
+- **Organisme :** Ville de Trois-Rivières
+- **Statut / date :** active / 2026-11-12 14:47:13
+- **Score :** 3 — UNSPSC:83101500 (+3)
 
 ## Travaux de nettoyage des conduites d'égout au mètre linéaire
 
@@ -106,14 +122,6 @@ Généré le 2026-11-15 17:42 UTC
 - **OCID / release :** `ocds-ec9k95-20176616` / `20261106142041`
 - **Organisme :** Ville de Shawinigan
 - **Statut / date :** active / 2026-10-14 17:27:47
-- **Score :** 3 — UNSPSC:83101500 (+3)
-
-## Nettoyage des égouts
-
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20173555` / `20261027183720`
-- **Organisme :** Ville de Prévost.
-- **Statut / date :** active / 2026-09-30 08:48:03
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
 ## Pour des travaux de rinçage unidirectionnel
@@ -124,18 +132,10 @@ Généré le 2026-11-15 17:42 UTC
 - **Statut / date :** active / 2026-09-30 08:19:50
 - **Score :** 3 — UNSPSC:83101500 (+3)
 
-## Dépannage des sites de régulation et de mesure sur le réseau d'eau potable
-
-- **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20172263` / `20261027173019`
-- **Organisme :** Ville de Montréal - Service de l'approvisionnement
-- **Statut / date :** active / 2026-09-23 10:16:39
-- **Score :** 3 — UNSPSC:83101500 (+3)
-
 ## Service de nettoyage et d'inspection télévisée des conduites d'égouts incluant le transport et la disposition des résidus - Multi arrondissements
 
 - **Événement :** mise a jour
-- **OCID / release :** `ocds-ec9k95-20169610` / `20261029145135`
+- **OCID / release :** `ocds-ec9k95-20169610` / `20261113210902`
 - **Organisme :** Ville de Montréal - Service de l'approvisionnement
 - **Statut / date :** active / 2026-09-09 10:52:04
 - **Score :** 3 — UNSPSC:83101500 (+3)
